@@ -1,0 +1,12 @@
+# Site settings
+title: David Galeano
+email: davidgaleano@turbulenz.com
+description: "David Galeano's Blog"
+baseurl: ""
+url: "http://davidgaleano.github.io"
+twitter_username: davidgaleano
+github_username:  davidgaleano
+
+# Build settings
+markdown: kramdown
+permalink: pretty
